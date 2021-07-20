@@ -1,5 +1,7 @@
 # The-spark-foundation-internship--task
 
+#Business analytics Tasks
+
 Prediction using Supervised Machine learning
 
 Predict the percentage of an student based on the no. of study hours.
@@ -35,3 +37,25 @@ Data can be found at - https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66
 Solution - https://colab.research.google.com/drive/1tnutBEPOJflYI79cxN28cr-B6kaP95Mp
 
 Youtube link - https://youtu.be/yGskB22qd4g
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Computer vision Tasks
+
+Task 1 -Object Detection / Optical Character Recognition (ORC) (Level - Beginner)
+
+Implement an object detector which identifies the classes of the objects in an image
+
+Solution - https://colab.research.google.com/drive/1mHcBM8zAxyqyV6MQdgm04azKYNxqvJJI
+
+Youtube link - https://youtu.be/RU-uozw9BQg
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task 2 -Color Identification in Images
+
+Implement an image color detector which identifies all the colors in an image or video
+
+Solution - https://colab.research.google.com/drive/1Hx7h3WCj40TDvmuvhH8rqiXx3rIz_fDr
+
+Youtube - https://youtu.be/vefjvfA88H4
